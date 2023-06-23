@@ -7,7 +7,7 @@ Para que se de la conexión al MongoDB con Java, se deben de realizar los siguie
 
 ## Instalación de la dependencia
 
-Para esta ocasión, se usará el IDE de [**Maven**]([https://netbeans.apache.org/download/index.html](https://maven.apache.org/download.cgi)) (cualquier versión) por la rapidez al instalar la dependencia.
+Para esta ocasión, se usará el IDE de [**Maven**]([(https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers))) (cualquier versión) por la rapidez al instalar la dependencia.
 
 
 1. Crear un proyecto como *Java Application*.
