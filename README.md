@@ -7,7 +7,7 @@ Para que se de la conexión al MongoDB con Java, se deben de realizar los siguie
 
 ## Instalación de la dependencia
 
-Para esta ocasión, se usará el IDE de [**Maven**]([(https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers))) (cualquier versión) por la rapidez al instalar la dependencia.
+Para esta ocasión, se usará el IDE de [**Eclipse**]([(https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers))) (cualquier versión) por la rapidez al instalar la dependencia.
 
 
 1. Crear un proyecto como *Java Application*.
@@ -28,11 +28,6 @@ Y, finalmente, puede ya hacer la conexión como el siguiente ejemplo
 MongoClient mongo = null;
 mongo = new MongoClient(new MongoClientURI("mongodb://localhost:27017")); //URI por defecto
 ```
-Como demostración, se ha hecho una conexión en el presente repositorio que tiene como output la relación de los nombres de bases de datos según la URI mostrada.
-
-![Programa ejecutado](image.png "Ejecución del programa.")
-
-Si ocurre el output mostrado, entonces se encuentra correctamente conectado.
 
 # Integrantes G7
 
