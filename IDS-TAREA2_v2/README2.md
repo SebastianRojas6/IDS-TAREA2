@@ -1,6 +1,6 @@
 # IDSTAREA2
 
-Código java que permite conexión a cluster de MongoDB Atlas mediante un connection string. Además, crea un documento de MongoDB en base de datos y colección determinada.
+Código java que permite conexión a cluster de MongoDB Atlas mediante un connection string. Además, crea un documento de MongoDB en base de datos y colección determinada que demuestra conexión al cluster.
 
 Prerrequisitos:
 - IDE (ej. VS Code)<br>
