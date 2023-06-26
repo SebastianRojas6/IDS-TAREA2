@@ -25,3 +25,4 @@ Proceso:
   ~~~
  
 - Ejecutar mongodbCon.java colocando el connection string de cluster creado. De igual forma especificar nombre de base de datos y colección a guardarse documento, y colocar apartados de documento como _id y Nombre.
+(Se requiere modificar los nombres de class y package del código según los propios)
